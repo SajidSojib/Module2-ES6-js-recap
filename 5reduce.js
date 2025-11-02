@@ -18,7 +18,7 @@
  }, 0);
  console.log(subTotal);
  console.log();
- 
+
 
  const players = [
     {name: "Player 1", score: 100},
@@ -34,3 +34,4 @@
     return bestPlayer;
  }, players[0]);
  console.log(bestPlayer);
+
